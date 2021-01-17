@@ -4,5 +4,7 @@ On the expected time of the reminder, a Desktop Notification will pop up with an
 
 Prerequisite:
 pip install DateTime
+
 pip install times
+
 pip install Plyer
